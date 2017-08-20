@@ -1,0 +1,4 @@
+*.py[co]
+
+# Ignore data folders
+data/
